@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1535067020 source:c:\users\jv\documents\code block projects\trabalhodegrafo\src\aresta.cpp
+	<iostream>
+	"Aresta.h"
+
+1535066953 c:\users\jv\documents\code block projects\trabalhodegrafo\include\aresta.h
+
+1535317098 source:c:\users\jv\documents\code block projects\trabalhodegrafo\src\grafolista.cpp
+	<iostream>
+	"GrafoLista.h"
+
+1535317098 c:\users\jv\documents\code block projects\trabalhodegrafo\include\grafolista.h
+	"No.h"
+	"Aresta.h"
+
+1535165115 c:\users\jv\documents\code block projects\trabalhodegrafo\include\no.h
+	"Aresta.h"
+
+1535165153 source:c:\users\jv\documents\code block projects\trabalhodegrafo\src\no.cpp
+	<iostream>
+	"No.h"
+
+1535402584 source:c:\users\jv\documents\code block projects\trabalhodegrafo\main.cpp
+	<iostream>
+	<stdio.h>
+	<string>
+	"GrafoLista.h"
+	"GrafoMatriz.h"
+	"ModuloLeitura.h"
+
+1535401513 c:\users\jv\documents\code block projects\trabalhodegrafo\include\grafomatriz.h
+
+1535401238 source:c:\users\jv\documents\code block projects\trabalhodegrafo\src\grafomatriz.cpp
+	<iostream>
+	"GrafoMatriz.h"
+
+1535401726 source:c:\users\jv\documents\code block projects\trabalhodegrafo\src\moduloleitura.cpp
+	"ModuloLeitura.h"
+	"GrafoLista.h"
+	"GrafoMatriz.h"
+	<iostream>
+	<stdio.h>
+
+1535323254 c:\users\jv\documents\code block projects\trabalhodegrafo\include\moduloleitura.h
+	"GrafoLista.h"
+	"GrafoMatriz.h"
+
